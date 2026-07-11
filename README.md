@@ -103,7 +103,7 @@ The Power BI dashboard includes:
 Add a screenshot of the Power BI dashboard inside the `dashboard/` folder.
 
 ```text
-dashboard/Telcom_Customer_Churn_Dashboard.png
+Dashboard/Telcom_Customer_Churn_Dashboard.png
 ```
 
 ---
