@@ -8,6 +8,11 @@ An end-to-end Data Analytics project focused on identifying customer churn patte
 
 Customer churn directly impacts business revenue and profitability. This project analyzes telecom customer behavior to identify the key drivers of churn and provide data-driven recommendations to improve customer retention.
 
+
+## Dashboard Preview
+
+![Telecom Customer Churn Dashboard](Dashboard/Telcom_Customer_Churn_Dashboard.png)
+
 ---
 
 ## Tech Stack
@@ -97,10 +102,6 @@ The Power BI dashboard includes:
 - Prioritize proactive support for high-value customers.
 
 ---
-
-## Dashboard Preview
-
-![Telecom Customer Churn Dashboard](Dashboard/Telcom_Customer_Churn_Dashboard.png)
 
 ---
 
